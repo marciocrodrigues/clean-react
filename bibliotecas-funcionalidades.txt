@@ -1,1 +1,0 @@
-git-commit-msg-linter  -> proibe commits que estejam fora do padrão selecionado
